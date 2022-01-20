@@ -78,4 +78,3 @@ var jugPer = 0;
         document.write(" Haz perdido: " + jugPer + " partidas" + "<br>");
         document.write(" Haz empatado: " + jugEmp + " partidas" + "<br>");
     }
-}
